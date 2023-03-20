@@ -1,0 +1,40 @@
+# 13. Tarjeta de felicitación 8 - Splash 2
+
+<p align="center">
+  <img src="fotos/52.png">
+</p>
+
+## XML
+
+```xml
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android"
+  android:fillAfter="true"><!--que se quede en la posicion esta cuando termine la animacion-->
+
+  <translate
+    android:fromXDelta="600"
+    android:fromYDelta="0"
+    android:toXDelta="0"
+    android:toYDelta="0"
+    android:duration="3000" />
+
+  <scale
+    android:pivotX="0"
+    android:pivotY="50%"
+    android:fromXScale="1"
+    android:fromYScale="1"
+    android:toXScale="0"
+    android:toYScale="1"
+
+    android:duration="2000"
+    android:startOffset="3500"//delay que se esperara para que empiece la animacion />
+</set>
+```
+
+## Java
+
+```java
+TextView cargando = findViewById(R.id.tituloSplash);
+Animation animacion = AnimationUtils.loadAnimation(this, R.anim.splash);//carga la animacion
+cargando.startAnimation(animacion);//inicia la animacion
+```
