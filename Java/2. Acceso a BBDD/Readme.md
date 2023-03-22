@@ -23,7 +23,10 @@
 
 ## **Requerimiento 1**
 
-Se desea hacer un CRUD completo de la entidad Coche. Esta vez no se trabajará con ningún fichero y se deberá realizar la opción de modificar coche por ID. Es muy importante usar el patrón DAO visto en clase. El menú mostrado será de la siguiente forma:
+Se desea hacer un CRUD completo de la entidad Coche. Esta vez no se trabajará con ningún fichero y se deberá realizar la opción de modificar coche por ID. Es muy importante usar el patrón DAO visto en clase.
+
+</br>
+El menú mostrado será de la siguiente forma:
 
 - Añadir nuevo coche (El ID lo incrementará automáticamente la base de datos)
 - Borrar coche por ID
