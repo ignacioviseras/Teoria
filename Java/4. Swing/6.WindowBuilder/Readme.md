@@ -2,8 +2,6 @@
 
 ## JFrame vs JDialog
 
----
-
 ### JFrame
 
 - Es la ventana principal, aparecerá en la barra de herramientas con su icono correspondiente.
@@ -13,17 +11,20 @@
 - Tiene una ventana padre **(JFrame no admite esto)**
 - Puede ser una ventana modal **(JFrame no podría serlo)**
 
+</br>
+
 ## WindowBuilder
 
----
 
-## ¿Qué es?
+### ¿Qué es?
 
 - Es un plugin que nos facilita la creación de ventanas utilizando una interfaz grafica.
 
-## ¿Cómo añadirlo al IDE?
+### ¿Cómo añadirlo al IDE?
 
 - En el caso de eclipse tendríamos que ir a la pestaña de Help→ Eclipse Marketplace y buscamos WindowBuilder Current
+
+</br>
 
 ## ¿Cómo utilizarlo?
 
