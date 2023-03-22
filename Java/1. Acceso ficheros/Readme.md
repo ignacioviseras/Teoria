@@ -1,3 +1,5 @@
+# Documentación
+
 <ol>
     <li><a href="https://github.com/ignacioviseras/Teoria/blob/main/Java/1.%20Acceso%20ficheros/01.%20Clase%20File.md">Clase File</a></li>
     <li><a href="https://github.com/ignacioviseras/Teoria/blob/main/Java/1.%20Acceso%20ficheros/02.%20Ficheros%20de%20Texto.md">Ficheros de Texto</a></li>
@@ -10,7 +12,7 @@
 
 + Actividad para practicar los conocimientos
 
-----
+</br>
 
 # AE-1. Manejo de Ficheros
 + <a href="https://github.com/ignacioviseras/2-DAM/tree/main/Acceso%20a%20Datos/A1-%20Manejo%20de%20Ficheros">Solución</a> de la Actividad

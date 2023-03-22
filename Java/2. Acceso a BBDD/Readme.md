@@ -1,3 +1,5 @@
+# Documentación
+
 <ol>
     <li><a href="https://github.com/ignacioviseras/Teoria/blob/main/Java/2.%20Acceso%20a%20BBDD/01.%20BBDD%20Configuración%20del%20entorno.md">BBDD Configuración del entorno</a></li>
     <li><a href="https://github.com/ignacioviseras/Teoria/blob/main/Java/2.%20Acceso%20a%20BBDD/02.%20BBDD%20Conexión.md">BBDD Conexión</a></li>
@@ -13,6 +15,7 @@
 
 + Actividad para practicar los conocimientos
 
+</br>
 
 # AE-2. Manejo de conectores de BBDD
 

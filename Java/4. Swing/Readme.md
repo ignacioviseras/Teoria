@@ -1,4 +1,4 @@
-<h1 align="center">Documentación</h1>
+# Documentación
 
 <ol>
     <li><a href="https://github.com/ignacioviseras/Teoria/tree/main/Java/4.%20Swing/1.PrimeraVentana">Primera Ventana</a></li>
@@ -12,6 +12,8 @@
 </ol>
 
 + Actividad para practicar los conocimientos
+
+</br>
 
 # AE-2. Calculadora
 
