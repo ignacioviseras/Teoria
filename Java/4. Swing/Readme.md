@@ -30,7 +30,8 @@ funcionalidad, y el aspecto de nuestra calculadora será similar a este:
   <img src="fotosReadme/1.png">
 </p>
 
-##Aspectos a tener en cuenta:
+<h4>Aspectos a tener en cuenta:</h4>
+
 + Es fundamental que durante la ejecución de la aplicación no se produzcan excepciones ni
 ningún tipo de error. Habrá que gestionarlos y tenerlos en cuenta desde el código. Probad
 con la introducción de diferentes tipos de datos o dejando las cajas vacías. En todo momento
