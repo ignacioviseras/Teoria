@@ -1,4 +1,4 @@
-<h2>Documentación</h2>
+#Documentación
 
 <ol>
     <li><a href="https://github.com/ignacioviseras/Teoria/blob/main/Java/3.%20JPA/1%20Introducción.md">Introducción</a></li>
