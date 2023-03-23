@@ -9,7 +9,7 @@
     <li><a href="https://github.com/ignacioviseras/Teoria/blob/main/Java/3.%20JPA/6%20Relaciones%20One%20To%20One.md">Relaciones One To One</a></li>
     <li><a href="https://github.com/ignacioviseras/Teoria/blob/main/Java/3.%20JPA/7%20Relaciones%20One%20To%20Many.md">Relaciones One To Many</a></li>
     <li><a href="https://github.com/ignacioviseras/Teoria/blob/main/Java/3.%20JPA/8%20Relaciones%20Many%20To%20Many.md">Relaciones Many To Many</a></li>
-    <li><a href="https://github.com/ignacioviseras/Teoria/edit/main/Java/3.%20JPA/Readme.md">JPQL</a></li>
+    <li><a href="https://github.com/ignacioviseras/Teoria/blob/main/Java/3.%20JPA/9.%20JPQL.md">JPQL</a></li>
 </ol>
 
 + Actividad para practicar los conocimientos
