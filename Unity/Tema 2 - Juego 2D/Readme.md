@@ -23,4 +23,17 @@
     <li><a href="https://github.com/ignacioviseras/Teoria/blob/main/Unity/Tema%202%20-%20Juego%202D/20.%20Pantalla%20inicio.md">Pantalla inicio</a></li>
     <li><a href="https://github.com/ignacioviseras/Teoria/blob/main/Unity/Tema%202%20-%20Juego%202D/21.%20Creación%20de%20ejecutable.md">Creación de ejecutable</a></li>
     <li><a href="https://github.com/ignacioviseras/Teoria/blob/main/Unity/Tema%202%20-%20Juego%202D/22%20-%20Anim%20personaje.md">Anim personaje</a></li>
+</ol>
+
++ Actividad para afianzar los conocimientos
+
+# Juego 2D
 <ol>
+    <li>Escena inicial de introducción al juego</li>
+    <li>Añadir música de fondo</li>
+    <li>Añadir diferentes efectos de sonido</li>
+    <li>Escena final de juego para mostrar la puntuación total y la oportunidad de volver a jugar</li>
+    <li>Cambia el icono del juego</li>
+    <li>cambia el splash por defecto de Unity</li>
+    <li>EXTRAS: añadid diferentes mecánicas al juego (diferentes tipos de poweUps para recoger con distinta puntuación cada uno, personaje con X número de vidas, diferentes tipos de enemigos que hacen diferente daño, Boss final, guardado de puntuación, etc.)</li>
+</ol>
