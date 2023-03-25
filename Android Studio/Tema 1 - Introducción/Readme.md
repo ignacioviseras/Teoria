@@ -16,3 +16,9 @@
   <li><a href="https://github.com/ignacioviseras/Teoria/blob/main/Android%20Studio/Tema%201/13.%20Tarjeta%20de%20felicitación%208%20-%20Splash%202.md">Tarjeta de felicitación 8 - Splash 2</a></li>
   <li><a href="https://github.com/ignacioviseras/Teoria/blob/main/Android%20Studio/Tema%201/14.%20Tarjeta%20de%20felicitación%209.md">Tarjeta de felicitación 9</a></li>
 </ol>
+
++ Actividad para afianzar los conocimientos.
+
+# Tarjeta de Felicitación
+
+Crea tu propia felicitación que contenga un SPLASH con alguna animación que dé paso a la felicitación.

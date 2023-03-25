@@ -15,3 +15,19 @@
   <li><a href="https://github.com/ignacioviseras/Teoria/blob/main/Android%20Studio/Tema%202/12.%20Borrar%20datos%20y%20Logout.md">Borrar datos y Logout</a></li>
   <li><a href="https://github.com/ignacioviseras/Teoria/blob/main/Android%20Studio/Tema%202/13%20Acciones%20en%20Eventos.md">Acciones en Eventos</a></li>
 </ol>
+
++ Actividad para afianzar los conocimientos.
+
+# To do List
+
++ <a href="https://github.com/ignacioviseras/2-DAM/tree/main/Programación%20Multimedia%20y%20Dispositios%20Móviles/AE.1%20App%20ToDoList/Ignacio/ToDoList">Solución</a> de la actividad.
+</br>
+1. Cambiar el icono genérico de la app por otro de tu elección.
+2. Pantalla inicial de Splash que de paso al login/registro
+3. Agregar iconos a los botones
+4. Cambiar el icono del botón "añadir tarea".
+5. Poner avisos de tipo Toast personalizados (texto e imagen) para los eventos de las tareas: usuario registrado y tarea realizada.
+6. Incluye un botón de edición para cada una de las tareas para poder modificar su texto: aparecerá un cuadro de diálogo con el texto de la tarea original para su modificación por un texto nuevo. Los cambios se deben reflejar en la base de datos.
+7. Verifica el contenido de los formularios cuando sea necesario.
+8. Originalidad y creatividad: cambiar los estilos, paleta de colores, tipografías, uso de gradientes, animaciones, sonidos, imágenes, ilustraciones, etc. (pero que sea bonito)
+9. Generar un archivo apk.
